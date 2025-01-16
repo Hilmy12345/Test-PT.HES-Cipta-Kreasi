@@ -1,0 +1,51 @@
+[{
+  "_id": {
+    "$oid": "67886701a61800b28c38df36"
+  },
+  "nama": "Mahasiswa 1",
+  "npm": "2212001",
+  "alamat": {
+    "provinsi": "Lampung",
+    "kota": "Bandar Lampung",
+    "jalan": "Jl.Raya. Gg Buntu. No.11"
+  },
+  "hoby": [
+    "Renang",
+    "Sepak Bola",
+    "Baca Buku"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67886712a61800b28c38df37"
+  },
+  "nama": "Mahasiswa 2",
+  "npm": "2212002",
+  "alamat": {
+    "provinsi": "Lampung",
+    "kota": "Bandar Lampung",
+    "jalan": "Jl.Raya. Gg Buntu. No.12"
+  },
+  "hoby": [
+    "Renang",
+    "Sepak Bola",
+    "Baca Buku"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67886720a61800b28c38df38"
+  },
+  "nama": "Mahasiswa 3",
+  "npm": "2212003",
+  "alamat": {
+    "provinsi": "Lampung",
+    "kota": "Bandar Lampung",
+    "jalan": "Jl.Raya. Gg Buntu. No.13"
+  },
+  "hoby": [
+    "Renang",
+    "Sepak Bola",
+    "Baca Buku"
+  ]
+}]

@@ -1,0 +1,6 @@
+
+{"level":"info","message":"Server berjalan pada 4000"}
+{"level":"info","message":"::1 - - [16/Jan/2025:02:45:52 +0000] \"POST /api/create/mahasiswa HTTP/1.1\" 201 57 \"-\" \"PostmanRuntime/7.43.0\""}
+{"level":"info","message":"::1 - - [16/Jan/2025:02:46:12 +0000] \"GET /api/mahasiswa HTTP/1.1\" 200 833 \"-\" \"PostmanRuntime/7.43.0\""}
+{"level":"info","message":"::1 - - [16/Jan/2025:02:46:19 +0000] \"GET /api/detail/mahasiswa/2212004 HTTP/1.1\" 200 205 \"-\" \"PostmanRuntime/7.43.0\""}
+{"level":"info","message":"::1 - - [16/Jan/2025:02:46:29 +0000] \"DELETE /api/delete/mahasiswa/2212004 HTTP/1.1\" 200 45 \"-\" \"PostmanRuntime/7.43.0\""}
