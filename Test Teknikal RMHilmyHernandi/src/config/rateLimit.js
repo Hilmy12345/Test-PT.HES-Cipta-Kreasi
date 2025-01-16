@@ -6,7 +6,7 @@ const limiter = rateLimit({
   store: new RedisStore({
     sendCommand: (...args) => ConnectionRedis.call(...args),
   }),
-  windowMs: 30000,
+  windowMs: 86400000,
   max: 10,
   message: {
     status: 429,

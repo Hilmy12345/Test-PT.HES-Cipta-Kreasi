@@ -9,7 +9,7 @@ const sessionConfig = session({
   cookie: {
     httpOnly: true,
     secure: process.env.NODE_ENV === "production",
-    maxAge: 30000,
+    maxAge: 86400000,
   },
 });
 
